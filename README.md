@@ -1,2 +1,3 @@
 # kys-bot
-## Tells you ko kys when `/tellme` is used
+## Tells you to kys when `/tellme` is used
+idk why i made this lol
