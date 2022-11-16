@@ -11,5 +11,7 @@
     "bot"
   ],
   "author": "Aeron W",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+  }
 }
